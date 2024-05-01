@@ -8,7 +8,7 @@ public class gitPractice {
     public void test1 (){
         int a =3;
         int b= 10;
-        int sum = (a + b) * 2 ;
+        int sum = (a + b) + (a + b) ;
         System.out.println("Sum:" + sum);
     }
     @Test
