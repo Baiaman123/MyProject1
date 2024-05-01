@@ -8,7 +8,8 @@ public class gitPractice {
     public void test1 (){
         int a =3;
         int b= 10;
-        System.out.println("Sum:" + (a + b ));
+        int sum = (a + b) * 2 ;
+        System.out.println("Sum:" + sum);
     }
     @Test
     public void test2 (){
