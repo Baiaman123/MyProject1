@@ -17,6 +17,7 @@ public class AdminPage extends Page{
         String empName = parameters [2];
         String status = parameters [ 3];
 
-        //Write the code which will search
+
+
     }
 }
